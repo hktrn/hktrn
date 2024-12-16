@@ -2,7 +2,7 @@
 
 🎓 Economics and Mathematics Graduate at Toronto Metropolitan University (Formerly known as Ryerson University)
 
-- 💻 Database and Intergrations Specialist at Maximizer CRM
+- 💻 Software Developer at Maximizer CRM
 - 📈 Data Consultant Toronto Metropolitan University
 - ⌨️ Senior Lead Facilitator (Python, R, and SQL) at Toronto Metropolitan University Business Careers Hub Bootcamps team
 
